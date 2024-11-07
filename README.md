@@ -21,14 +21,14 @@ Abuse-Proof
  - [ ] CAPTCHA Support (Cloudflare turnstyle or Google reCAPTCHA)
 
 Simple Setup
- - [x] Single binary release
+ - [ ] Single binary release
  - [ ] Docker image
 
 ## Installation
-This is currently a work in progress project, so there are no releases available. You can build the project from source.
+This is currently a work-in-progress project, so there are no releases available. You can build the project from source.
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/QuickBin.git
+    git clone https://github.com/savag3life/QuickBin.git
     cd QuickBin
     ```
 
